@@ -8,11 +8,7 @@
     "build": "next build",
     "clean": "rm -rf .dist",
     "start": "NODE_ENV=production node server.js",
-    "utest": "mocha-webpack --webpack-config webpack.config.js \"app/**/*.spec.js\"",
-    "utest:current": "yarn utest --grep @current",
-    "utest:current:watch": "yarn utest --watch --grep @current",
-    "utest:tag": "yarn utest --grep",
-    "coverage": "cross-env NODE_ENV=coverage BABEL_ENV=test nyc yarn utest --reporter min"
+    "test": "mocha-webpack --webpack-config webpack.config.js \"app/**/*.spec.js\""
   },
   "repository": {
     "type": "git",
