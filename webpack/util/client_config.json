@@ -1,0 +1,12 @@
+
+{
+  "clientConfigKeys": [
+    "ALGOLIA_APP_ID",
+    "ALGOLIA_API_KEY",
+    "NODE_ENV",
+    "PORT",
+    "ISTORIES",
+    "YOTPO_ID",
+    "BASE_URL"
+  ]
+}

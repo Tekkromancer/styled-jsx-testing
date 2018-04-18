@@ -1,0 +1,11 @@
+{
+  "sortOrder": "never",
+  "colons": "always",
+  "semicolons": "never",
+  "stackedProperties": true,
+  "brackets": "never",
+  "colors":  "always",
+  "indentPref": 2,
+  "quotePref": "single",
+  "maxWarnings": 0
+}

@@ -1,0 +1,7 @@
+--require babel-core/register
+--require babel-polyfill
+--require jsdom-global/register
+--require test/helpers/mocha_globals
+--require test/helpers/jsdom_setup
+--check-leaks
+--recursive

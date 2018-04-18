@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="88px" viewBox="0 0 99 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>img_genuine_big</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="70" cy="36" r="24"></circle>
+    </defs>
+    <g id="Elements/Image/img_genuine_big" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1.000000, -8.000000)">
+        <g id="img_genuine_big">
+            <polyline id="Stroke-1" stroke="#263C60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="53 36 53 76 3 76 3 36"></polyline>
+            <polyline id="Stroke-3" stroke="#263C60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="4 34.2727273 16.4 23 66 23 66 62.6 54.7272727 75"></polyline>
+            <path d="M28.5,36.5 L40.5,24.5" id="Stroke-5" stroke="#263C60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M19.5,48.5 L36.5,48.5" id="Stroke-10" stroke="#263C60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M3.5,36.5 L54.5,36.5" id="Stroke-11" stroke="#263C60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M3,94 L74,94" id="Stroke-11" stroke="#263C60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="4" cx="70" cy="36" r="26"></circle>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle stroke="#263C60" stroke-width="3" cx="70" cy="36" r="22.5"></circle>
+            </g>
+            <path d="M69.3897553,19.5110757 C60.5597735,19.8321085 53.5,27.091605 53.5,36 C53.5,45.1126984 60.8873016,52.5 70,52.5 C78.908395,52.5 86.1678915,45.4402265 86.4889243,36.6102447 L69.3897553,19.5110757 Z" id="Oval" stroke="#263C60" stroke-width="3"></path>
+            <polyline id="Page-1" stroke="#263C60" stroke-width="3" stroke-linecap="square" stroke-linejoin="round" points="63 35.5 70.0833333 41 80 30"></polyline>
+            <rect id="Rectangle" stroke="#263C60" stroke-width="3" transform="translate(88.479164, 76.672077) rotate(-25.000000) translate(-88.479164, -76.672077) " x="83.9791639" y="62.1720773" width="9" height="29" rx="4"></rect>
+            <rect id="Rectangle" stroke="#263C60" stroke-width="3" transform="translate(80.872035, 60.358537) rotate(-25.000000) translate(-80.872035, -60.358537) " x="78.3720352" y="56.8585371" width="5" height="7"></rect>
+        </g>
+    </g>
+</svg>

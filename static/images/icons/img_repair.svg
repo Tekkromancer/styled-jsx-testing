@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="99px" viewBox="0 0 88 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>img_repair</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="8" y="16" width="20" height="80" rx="10"></rect>
+        <path d="M83,18 L83,48 L93,48 L93,58 L90,58 L90,87 C90,92.5228475 85.5228475,97 80,97 L76,97 C70.4771525,97 66,92.5228475 66,87 L66,58 L63,58 L63,48 L73,48 L73,18 L70,5 L78,4 L86,5 L83,18 Z" id="path-2"></path>
+        <rect id="path-3" x="63" y="48" width="30" height="10"></rect>
+        <path d="M72,56 L76,56 L76,82 C76,83.1045695 75.1045695,84 74,84 L74,84 C72.8954305,84 72,83.1045695 72,82 L72,56 Z" id="path-4"></path>
+        <path d="M80,56 L84,56 L84,82 C84,83.1045695 83.1045695,84 82,84 L82,84 C80.8954305,84 80,83.1045695 80,82 L80,56 Z" id="path-5"></path>
+        <path d="M83,18 L83,51 L73,51 L73,18 L70,5 L78,4 L86,5 L83,18 Z" id="path-6"></path>
+    </defs>
+    <g id="Elements/Image/img_repair" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-8.000000, -1.000000)">
+        <g id="img_repair">
+            <rect id="Rectangle-7" stroke="#263C60" stroke-width="3" x="17.5" y="24.5" width="67" height="70"></rect>
+            <rect id="Rectangle-7" stroke="#263C60" stroke-width="3" x="37.5" y="35.5" width="46" height="38"></rect>
+            <g id="Rectangle-8">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#263C60" stroke-width="3" x="9.5" y="17.5" width="17" height="77" rx="8.5"></rect>
+            </g>
+            <rect id="Rectangle-8" stroke="#263C60" stroke-width="3" x="9.5" y="77.5" width="17" height="17" rx="8.5"></rect>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke="#263C60" stroke-width="3" d="M84.1646717,6.28225729 L78,5.51167333 L71.8353283,6.28225729 L74.5,17.829168 L74.5,49.5 L64.5,49.5 L64.5,56.5 L67.5,56.5 L67.5,87 C67.5,91.6944204 71.3055796,95.5 76,95.5 L80,95.5 C84.6944204,95.5 88.5,91.6944204 88.5,87 L88.5,56.5 L91.5,56.5 L91.5,49.5 L81.5,49.5 L81.5,17.829168 L84.1646717,6.28225729 Z"></path>
+                <path stroke="#FFFFFF" stroke-width="3" d="M84.5,18.170832 L84.5,46.5 L94.5,46.5 L94.5,59.5 L91.5,59.5 L91.5,87 C91.5,93.3512746 86.3512746,98.5 80,98.5 L76,98.5 C69.6487254,98.5 64.5,93.3512746 64.5,87 L64.5,59.5 L61.5,59.5 L61.5,46.5 L71.5,46.5 L71.5,18.170832 L68.1646717,3.71774271 L78,2.48832667 L87.8353283,3.71774271 L84.5,18.170832 Z"></path>
+            </g>
+            <g id="Rectangle-7">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#263C60" stroke-width="3" x="64.5" y="49.5" width="27" height="7"></rect>
+            </g>
+            <g id="Rectangle-8">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <path stroke="#263C60" stroke-width="3" d="M73.5,57.5 L73.5,82 C73.5,82.2761424 73.7238576,82.5 74,82.5 C74.2761424,82.5 74.5,82.2761424 74.5,82 L74.5,57.5 L73.5,57.5 Z"></path>
+            </g>
+            <g id="Rectangle-8">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <path stroke="#263C60" stroke-width="3" d="M81.5,57.5 L81.5,82 C81.5,82.2761424 81.7238576,82.5 82,82.5 C82.2761424,82.5 82.5,82.2761424 82.5,82 L82.5,57.5 L81.5,57.5 Z"></path>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <path stroke="#263C60" stroke-width="3" d="M84.1646717,6.28225729 L78,5.51167333 L71.8353283,6.28225729 L74.5,17.829168 L74.5,49.5 L81.5,49.5 L81.5,17.829168 L84.1646717,6.28225729 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

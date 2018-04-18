@@ -1,0 +1,19 @@
+{
+    "apps" : [{
+      "name"        : "RepairClinic React Nextjs",
+      "script"      : "server.js",
+      "log-date-format": "YYYY-MM-DD HH:mm:ss.SSS",
+      "env": {
+        "NODE_ENV": "production",
+        "BASE_URL": "http://api.dev.repairclinic.com/api"
+      },
+      "env_production" : {
+         "NODE_ENV": "production",
+         "BASE_URL": "http://api.repairclinic.com/api"
+      },
+      "env_staging" : {
+         "NODE_ENV" : "production",
+         "BASE_URL": "http://api.stage.repairclinic.com/api"
+      }
+    }]
+  }

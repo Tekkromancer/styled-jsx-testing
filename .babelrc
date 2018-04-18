@@ -1,0 +1,35 @@
+{
+ "presets": [
+   [
+      "next/babel",
+      {
+        "styled-jsx": {
+          "plugins": [
+            "styled-jsx-plugin-sass",
+          ]
+        }
+      }
+    ],
+   "env",
+   "stage-2",
+   "es2015",
+   "stage-0",
+ ],
+  "plugins": [
+    "transform-runtime",
+    "react-hot-loader/babel"
+  ],
+  "env": {
+    "test": {
+      "plugins": [
+         "istanbul",
+       ],
+    }
+  }
+}
+
+/*
+// messing up styled-jsx-sass
+"react",
+"react-optimize",
+*/

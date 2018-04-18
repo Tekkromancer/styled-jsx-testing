@@ -1,0 +1,21 @@
+{
+ "exclude": [
+    ".next/**",
+    ".nyc_output/**",
+    "static/**",
+    "webpack/**",
+    "test/**",
+    "**/*.spec.js"
+  ],
+  "extension": [
+    ".jsx",
+    ".js"
+  ],
+  "reporter": [
+    "lcov",
+    "html"
+  ],
+  "sourceMap": false,
+  "instrument": false,
+  "report-dir": "coverage"
+}
