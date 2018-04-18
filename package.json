@@ -10,17 +10,9 @@
     "start": "NODE_ENV=production node server.js",
     "test": "mocha-webpack --webpack-config webpack.config.js \"app/**/*.spec.js\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RC-Development/RepairClinic_ssr.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RC-Development/RepairClinic_ssr/issues"
-  },
-  "homepage": "https://github.com/RC-Development/RepairClinic_ssr#readme",
   "style": {
     "react-notifications": {
       "main": [
